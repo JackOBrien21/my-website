@@ -1,1 +1,1 @@
-Source code of my personal website at jackobriendevwebsite.web.app
+Source code for my personal homepage at jackobriendevwebsite.web.app
