@@ -52,6 +52,11 @@ export default function Navbar() {
                                 Contact
                             </Link>
                         </li>
+                        <li className="navbar--list--item">
+                            <Link className="hover-underline-animation" to="/projects" onClick={toggleLinks}>
+                                Projects
+                            </Link>
+                        </li>
                     </ul>
                 </div>
             </div>
